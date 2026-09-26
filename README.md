@@ -5,7 +5,7 @@
 
 <!-- Name & Typing Animation -->
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Yezhaaa">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=I'm+Yezha%20Amanando+;Full+Stack+Developer;JavaScript+%7C+Python+%7C+PHP+%7C+C%2B%2B" alt="Typing SVG" />
   </a>
 </div>
@@ -15,7 +15,7 @@
 <!-- Social Badges -->
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yezha-amanando-31b975328)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yezha-amanando)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yzamaa_?stkn=ZzVudnYyajlnZ2Z4)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yezhaamanando617@gmail.com)
   
@@ -25,21 +25,36 @@
 
 ---
 
-<!-- About Me -->
-## 🧑‍💻 About Me
+<!-- Intro + GIF -->
+<table>
+  <tr>
+    <td valign="top" width="60%" align="justify">
+      <p><strong>Hello there!</strong> I'm <strong>Yezha Amanando</strong>, an Informatics undergraduate at <strong>Universitas AMIKOM Yogyakarta</strong> with a strong interest in fullstack web development and software engineering.</p>
+      <p>I have a deep interest in <strong>Laravel, PHP, JavaScript, React, MySQL</strong>, and modern web technologies. I have experience working on projects involving backend development, database design, and the implementation of modern web solutions. I am committed to continuously developing my technical skills through hands-on practice and real-world software engineering projects.</p>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
-```javascript
-const developer = {
-  name:       "YOUR_NAME",
-  role:       "Full Stack Developer",
-  location:   "Indonesia 🇮🇩",
-  languages:  ["JavaScript", "TypeScript", "Python", "PHP", "C#", "C++"],
-  frameworks: ["React", "Next.js", "Laravel", "Node.js", "Express"],
-  databases:  ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-  currentlyLearning: ["Cloud Architecture", "Microservices", "DevOps"],
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
-};
-```
+<div align="center">
+  <br/>
+  <i><b>" Learn to Grow. "</b></i>
+  <br/><br/>
+</div>
+
+---
+
+<!-- About Me -->
+## 👤 About Me
+
+- 🎓 Informatics undergraduate at **Universitas AMIKOM Yogyakarta**
+- 💼 Focused on fullstack web development using Laravel, PHP, JavaScript, React & MySQL
+- 🏃🏻 Building a Running Recommendation System using Random Forest & Rule-Based methods
+- 🤖 Participating in **ASAH By Dicoding** as an AI Full-Stack Developer
+- 🧩 Interested in fullstack web development, backend systems, and practical software projects
+- 📚 Continuously learning modern web development and software engineering
 
 <br/>
 
@@ -76,14 +91,14 @@ const developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yezhaaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yezhaaa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yezhaaa&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </div>
 
 <br/>
